@@ -5,7 +5,7 @@ var question_fixes = [
 ];
 
 question_fixes.forEach(function(typo_fix) {
-  models.Question.update({text: typo_fix.correct_text}, {where: {text: wrong_text}});
+  models.Question.update({text: typo_fix.correct_text}, {where: {text: typo_fix.wrong_text}});
 });
 
 var answer_fixes = [
@@ -16,5 +16,5 @@ var answer_fixes = [
 ];
 
 answer_fixes.forEach(function(typo_fix) {
-  models.Question.update({text: typo_fix.correct_text}, {where: {text: wrong_text}});
+  models.Question.update({text: typo_fix.correct_text}, {where: {text: typo_fix.wrong_text}});
 });
