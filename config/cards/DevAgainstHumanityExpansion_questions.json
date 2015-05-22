@@ -1,0 +1,930 @@
+[
+  {
+    "type": "Question",
+    "value": "...and then there was the time I found %s on the root partition.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value": "%s - the idiot's guide to %s and %s.",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value": "140 characters is just enough to explain %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value": "%s all the way down.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value": "%s as a service.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"%s dooms any project to epic failure.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"%s Driven Development.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"%s is a feature, not a bug.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"%s is for closers.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"%s is weaponized privilege.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"%s is webscale.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"%s or it didn't happen.",
+    "keep":"Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"%s with one weird trick.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"%s, as one does.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"%s, for some values of %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"%s, is that even HA?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"%s, the only thing worse than recruiting spam.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"A sales rep just tried to pitch me on %s; I told them we already have %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Accidental %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"After %s came up, the retrospective really went downhill.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"All that we had to do to halve our response times was implement %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Amazon built a datacenter on the moon to lessen the risk of %s causing problems.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Apple just patented %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Ask Me Anything about %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"But Google is using %s so we should too!",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Called on account of %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Chef convergence failed due to %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Continuous %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"DevOps: Now with 100% more %s!",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Did you know that we have %s on pager rotation?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Disrupting the established players in %s via %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Doge %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Employees must %s before returning to work.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Enterprise %s in the cloud.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Enterprise-ready %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Epic yak-shave caused by %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Etsy says we should %s everything.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Every time someone brings up %s, I throw up a little in my mouth.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Facebook has acquired %s for $10b and %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Free as in %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Glitter-bombed with %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Hi, I'm Troy McClure. You may remember me from such commit messages as %s and %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"How even is %s formed?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"I came up with an awesome regex that converts %s to %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"I don't own any jeans skinny enough to wear to a %s meetup.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"I ended up having to buy a replacement %s on eBay.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"I find Java to be way too much like %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"I got paged at 3am because of %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"I saw the best minds of my generation %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"I think maybe I'll leave %s off my resum̩.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"If %s is the answer, you are asking the wrong question.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"If we make this deadline, Management has promised us %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"If you're %s, you're gonna have a bad time.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"In order to improve security, we're upgrading to %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"In the next planning session, we'll cover %s and %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"It figures - an article about our %s was posted just as we're pivoting to %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"It turns out that the button labeled \"Don't Push\" actually does %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"It worked on my %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"It's dangerous to go alone; take %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"It's like trying to herd %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Last week, I created a Chef recipe for %s; this week, it's an entire cookbook for %s. Automation FTW!",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Main benefits of automation: %s and %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Management just told me I need to get certified in %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Management said it's OK to deploy %s at 5pm on Friday",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Marketing says we're leaders in the %s space, but I think it's more accurate to say we specialize in %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"My eyes started bleeding when I opened the editor and saw %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"My Linkedin Endorsements include %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"My next blog post will be about how we used %s to create %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"My two most indispensable tools are %s and %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"No route to host: %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Nobody ever got fired for buying %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Our app is like %s, but for %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Our competitive advantage is our %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Our entire app is geared towards providing %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Our greatest achievement in the last year is %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Our production backups are stored using %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Pour one out for %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Put some %s on it",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Restoring from backups failed due to %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"RIAA is suing me for downloading %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Robots are going to make %s obsolete.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Root cause of the outage? %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Running Windows in production leads to %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Security? We've got that! We use %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"So, I was using Wireshark to check network traffic... Did you know we have %s in production?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Sweet! I just found a Puppet module for %s!",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"The hardest problems in computer science are naming things, cache invalidation, and %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"The Internet is for cat memes and %s,",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"The Internet of Things will be controlled by %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"The most stable part of our infrastructure? %s",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"The only thing necessary for evil to triumph is %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"The production datacenter burned down because of %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"The status console is green, but I can't access %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"The two pillars of our Continuous Deployment pipeline are %s and %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"There was no good solution for %s, so we built our own.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"This account has exceeded the maximum number of %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"This isn't going to be all unicorns and %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Time to schedule the postmortem for %s .",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"To secure our next round of funding, Management says we need %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Uber is on surge pricing because of %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"WARN: %s has been deprecated.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"We don't need %s - we have %s !",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"We really need to open-source our %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"We replaced our %s with %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"We run production %s and %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"When I hooked the 3D printer up to the Internet, it accidentally created %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"When I told Jez Humble about our %s, he actually cried.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"When I was a kid we didn't have %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"When I write a book about my experiences, it'll be called \"%s, the good parts\"",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Who would have known that %s could destroy an entire datacenter?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Will merge pull requests for %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Wrap it with the %s duct tape.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"xkcd.com just made a hilarious comic making fun of %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"You know what our app needs? More %s, less %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"You should think of your servers like %s and not like %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Zero-day %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  }
+]

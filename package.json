@@ -1,0 +1,37 @@
+{
+  "name": "irc-cah",
+  "version": "0.8.0",
+  "description": "Cards Against Humanity IRC bot",
+  "main": "app.js",
+  "author": "Creadak <creadak@gmail.com>",
+  "forkedFrom": "https://github.com/teeli/irc-cah",
+  "license": "Creative Commons BY-NC-SA 2.0",
+  "scripts": {
+    "start": "node node_modules/grunt-cli/bin/grunt",
+    "test": "node node_modules/grunt-cli/bin/grunt test"
+  },
+  "dependencies": {
+    "underscore": "latest",
+    "grunt": "latest",
+    "grunt-cli": "latest",
+    "irc": "~0.3.6",
+    "path": "~0.4.9",
+    "irc-colors": "~1.0.3",
+    "grunt-nodemon": "~0.2.1",
+    "nodemon": "~1.0.17",
+    "jayschema": "~0.2.7",
+    "inflection": "latest",
+    "sequelize": "latest",
+    "sequelize-cli": "latest",
+    "mariasql": "latest"
+  },
+  "devDependencies": {
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-nodemon": "latest",
+    "grunt-concurrent": "latest",
+    "grunt-mocha-test": "latest",
+    "load-grunt-tasks": "~0.1.0",
+    "time-grunt": "~0.1.1"
+  }
+}
