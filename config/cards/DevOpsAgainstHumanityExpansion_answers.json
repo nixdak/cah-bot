@@ -449,14 +449,6 @@
   },
   {
     "type": "Answer",
-    "value":"Zombie processes",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Answer",
     "value":"CAP Theorem",
     "keep": "Yes",
     "draw": 0,
@@ -865,14 +857,6 @@
   },
   {
     "type": "Answer",
-    "value":"dd",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Answer",
     "value":"A Piñata full of error messages",
     "keep": "Yes",
     "draw": 0,
@@ -962,14 +946,6 @@
   {
     "type": "Answer",
     "value":"4chan Party Van",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Answer",
-    "value":"Adderall",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1665,14 +1641,6 @@
   },
   {
     "type": "Answer",
-    "value":"A series of tubes",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Answer",
     "value":"secret sauce",
     "keep": "Yes",
     "draw": 0,
@@ -1882,14 +1850,6 @@
   {
     "type": "Answer",
     "value":"An IRC bot written entirely in sed",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Answer",
-    "value":"(╯°□°）╯︵ ┻━┻",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -2602,14 +2562,6 @@
   {
     "type": "Answer",
     "value":"Forcing push to master",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Answer",
-    "value":"Paxos",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -3346,14 +3298,6 @@
   {
     "type": "Answer",
     "value":"git merge --force",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Answer",
-    "value":"A series of tubes",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -4769,14 +4713,6 @@
   },
   {
     "type": "Answer",
-    "value":"Dan Kaminsky",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Answer",
     "value":"65,536",
     "keep": "Yes",
     "draw": 0,
@@ -4858,14 +4794,6 @@
   {
     "type": "Answer",
     "value":"regex golf",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Answer",
-    "value":"StackOverflow is offline?!",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -5202,14 +5130,6 @@
   {
     "type": "Answer",
     "value":"A former MENSA member",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Answer",
-    "value":"Being acquired by Oracle",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -5713,14 +5633,6 @@
   },
   {
     "type": "Answer",
-    "value":"Script kiddies",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Answer",
     "value":"Hack Forums",
     "keep": "Yes",
     "draw": 0,
@@ -5778,14 +5690,6 @@
   {
     "type": "Answer",
     "value":"A parent killing its children",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Answer",
-    "value":"Zombie processes",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -5945,14 +5849,6 @@
   },
   {
     "type": "Answer",
-    "value":"Windows ME",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Answer",
     "value":"Windows for Workgroups",
     "keep": "Yes",
     "draw": 0,
@@ -5970,14 +5866,6 @@
   {
     "type": "Answer",
     "value":"===== operator",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Answer",
-    "value":"Silk Road",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -6174,5 +6062,173 @@
     "draw": 0,
     "pick": 1,
     "source": "DevOps Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value": "3-hour standups",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value": "A 3.5' floppy disk",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"A 75-tier architecture",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"A customized .fvwmrc",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"A Github Outage",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"A Pi̱ata full of error messages",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"A Scrum Master",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"A Snowflake server",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"Digital Ocean",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"EFnet in the 90s",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"Epoch time in milliseconds",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"FileMaker Instant Web Publishing",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"Hand-crafted artisanal x86 assembly code",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"LinkedIn",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"NoSQL",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"Patent",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"Shift-Ctrl-F12-\\",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"Tech Recruiters",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"Waiting for console.aws.amazon.com...",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"Windows XP",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Answer",
+    "value":"Zombie processes",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
   }
 ]
