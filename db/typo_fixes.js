@@ -17,4 +17,4 @@ var answer_fixes = [
 
 answer_fixes.forEach(function(typo_fix) {
   models.Question.update({text: typo_fix.correct_text}, {where: {text: wrong_text}});
-};
+});
