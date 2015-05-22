@@ -5,11 +5,7 @@ var question_fixes = [
 ];
 
 question_fixes.forEach(function(typo_fix) {
-  models.Question.findOne({where: {text: typo_fix.wrong_text}}).then(function (question) {
-    if (typeof question !== 'undefined') {
-      question.update({text: typo_fix.correct_text});
-    }
-  });
+  models.Question.update({text: typo_fix.correct_text}, {where: {text: typo_fix.wrong_text}});
 });
 
 var answer_fixes = [
@@ -20,9 +16,5 @@ var answer_fixes = [
 ];
 
 answer_fixes.forEach(function(typo_fix) {
-  models.Answer.findOne({where: {text: typo_fix.wrong_text}}).then(function (answer) {
-    if (typeof answer !== 'undefined') {
-      answer.update({text: typo_fix.correct_text});
-    }
-  });
+  models.Answer.update({text: typo_fix.correct_text}, {where: {text: typo_fix.wrong_text}});
 });
