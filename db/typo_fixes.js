@@ -12,6 +12,10 @@ var answer_fixes = [
   {
     wrong_text: 'The suden need to conceal a massive boner',
     correct_text: 'The sudden need to conceal a massive boner'
+  },
+  {
+    wrong_text: 'A Pi̱ata full of error messages',
+    correct_text: 'A Piñata full of error messages'
   }
 ];
 

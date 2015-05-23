@@ -857,14 +857,6 @@
   },
   {
     "type": "Answer",
-    "value":"A Piñata full of error messages",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Answer",
     "value":"Mutation of immutable data",
     "keep": "Yes",
     "draw": 0,

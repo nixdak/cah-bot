@@ -1,6 +1,6 @@
 {
   "name": "irc-cah",
-  "version": "0.8.0",
+  "version": "1.0.0-dev",
   "description": "Cards Against Humanity IRC bot",
   "main": "app.js",
   "author": "Creadak <creadak@gmail.com>",
