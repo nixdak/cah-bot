@@ -664,7 +664,7 @@ var Game = function Game(channel, client, config, cmdArgs, dbModels) {
                 self.say(i + ": " + self.getFullEntry(self.table.question, cards.getCards()));
             }, this);
             // check that czar still exists
-            var currentCzar = _.findWhere(this.players, {isCzar: true});
+            var currentCzar = _.findWhere(this.players, {isCzar: true, isActive: true});
             if (typeof currentCzar === 'undefined') {
                 // no czar, random winner (TODO: Voting?)
                 self.say('The czar has fled the scene. So I will pick the winner on this round.');
