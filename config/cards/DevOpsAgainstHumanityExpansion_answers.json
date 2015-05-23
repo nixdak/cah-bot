@@ -6073,14 +6073,6 @@
   },
   {
     "type": "Answer",
-    "value": "A 3.5' floppy disk",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "Dev Against Humanity Expansion"
-  },
-  {
-    "type": "Answer",
     "value":"A 75-tier architecture",
     "keep": "Yes",
     "draw": 0,
@@ -6105,7 +6097,7 @@
   },
   {
     "type": "Answer",
-    "value":"A Pi̱ata full of error messages",
+    "value":"A Piñata full of error messages",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
