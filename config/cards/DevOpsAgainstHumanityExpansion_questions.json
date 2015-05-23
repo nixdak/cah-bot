@@ -1,5 +1,6 @@
 [
   {
+    "type": "Question",
     "value":"%s as a service.",
     "keep": "Yes",
     "draw": 0,
@@ -168,14 +169,6 @@
   },
   {
     "type": "Question",
-    "value":"Hi, I'm Troy McClure. You may remember me from such commit messages as %s and %s.",
-    "keep": "Yes",
-    "draw": 1,
-    "pick": 2,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
     "value":"How even is %s formed?",
     "keep": "Yes",
     "draw": 0,
@@ -314,13 +307,13 @@
     "type": "Question",
     "value":"%s - the idiots guide to %s and %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 2,
+    "pick": 3,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
-    "value":"Put some %s_ on it",
+    "value":"Put some %s on it",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -391,6 +384,7 @@
     "source": "DevOps Against Humanity Expansion"
   },
   {
+    "type": "Question",
     "value":"DevOps: Now with 100% more %s!",
     "keep": "Yes",
     "draw": 0,
@@ -401,8 +395,8 @@
     "type": "Question",
     "value":"Main benefits of automation: %s and %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -425,8 +419,8 @@
     "type": "Question",
     "value":"We run production on %s and %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -473,8 +467,8 @@
     "type": "Question",
     "value":"The two pillars of our Continuous Deployment pipeline are %s and %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -521,8 +515,8 @@
     "type": "Question",
     "value":"My two most indispensable tools are %s and %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -545,8 +539,8 @@
     "type": "Question",
     "value":"You should think of your servers like %s and not like %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -599,10 +593,14 @@
   },
   {
     "type": "Question",
-    "value":"Security? We've got that! We use %s."
+    "value":"Security? We've got that! We use %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "DevOps Against Humanity Expansion"
   },
-
   {
+    "type": "Question",
     "value":"When I hooked the 3D printer up to the Internet, it accidentally created %s.",
     "keep": "Yes",
     "draw": 0,
@@ -613,8 +611,8 @@
     "type": "Question",
     "value":"My next blog post will be about how we used %s to create %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -645,8 +643,8 @@
     "type": "Question",
     "value":"We don't need %s - we have %s !",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -661,16 +659,16 @@
     "type": "Question",
     "value":"Our app is like %s, but for %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"Marketing says we're leaders in the %s space, but I think it's more accurate to say we specialize in %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -709,8 +707,8 @@
     "type": "Question",
     "value":"Last week, I created a Chef recipe for %s; this week, it's an entire cookbook for %s, Automation FTW!",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -725,16 +723,21 @@
     "type": "Question",
     "value":"A sales rep just tried to pitch me on %s; I told them we already have %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
-    "value":"Who would have known that %s could destroy an entire datacenter?"
+    "value":"Who would have known that %s could destroy an entire datacenter?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "DevOps Against Humanity Expansion"
   },
 
   {
+    "type": "Question",
     "value":"Our production backups are stored using %s.",
     "keep": "Yes",
     "draw": 0,
@@ -745,8 +748,8 @@
     "type": "Question",
     "value":"We replaced our %s with %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -761,24 +764,24 @@
     "type": "Question",
     "value":"You know what our app needs? More %s, less %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"It figures - an article about our %s was posted just as we're pivoting to %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"In the next planning session, we'll cover %s and %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -839,22 +842,6 @@
   },
   {
     "type": "Question",
-    "value":"http://i.imgur.com/546N4FRu.jpg",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"%s is that even HA?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
     "value":"My Linkedin Endorsements include %s.",
     "keep": "Yes",
     "draw": 0,
@@ -887,7 +874,7 @@
   },
   {
     "type": "Question",
-    "value":"An error occurred: E%s",
+    "value":"An error occurred: %s",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -897,13 +884,13 @@
     "type": "Question",
     "value":"According to the logs, %s was initially caused by %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
-    "value":"We can just fix that with a little %s_.",
+    "value":"We can just fix that with a little %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -913,24 +900,24 @@
     "type": "Question",
     "value":"You can have %s, %s, or %s.  Pick two.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 2,
+    "pick": 3,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"A monad is just a %s in the category of %s, what's the problem?",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"Functional programming - if you can't %s it, %s it.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -953,8 +940,8 @@
     "type": "Question",
     "value":"%s, now with %s support.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -991,15 +978,7 @@
   },
   {
     "type": "Question",
-    "value":"I was 6 beers in when I got the pager alert that %swas down.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"Notice: Building %s for %s",
+    "value":"I was 6 beers in when I got the pager alert that %s was down.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1017,16 +996,16 @@
     "type": "Question",
     "value":"If it weren't for %s we'd all be %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"%s, %s and just a few lines of Perl.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -1041,24 +1020,24 @@
     "type": "Question",
     "value":"Script kiddies got into %s because %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"%s is better than Hadoop because %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
-    "value":"Disturbing ____ leaves ____ fucked",
+    "value":"Disturbing %s leaves %s fucked",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -1072,14 +1051,6 @@
   {
     "type": "Question",
     "value":"WAIT, YOU DELETED %s??!",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"@%sborat",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1121,8 +1092,8 @@
     "type": "Question",
     "value":"\"Guys, seriously, if we just use %s it will solve all our problems with %s!\"",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -1137,16 +1108,16 @@
     "type": "Question",
     "value":"github.com/%s/%s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"Hello. My name is %s and I am addicted to %s .",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -1161,13 +1132,13 @@
     "type": "Question",
     "value":"That talk outline said it would be about %s, but it ended up being more like %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
-    "value":"I will replace you with a very small %s_.",
+    "value":"I will replace you with a very small %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1175,10 +1146,10 @@
   },
   {
     "type": "Question",
-    "value":"Jordan Sissel hates %s_ so much that he created a new opensource project called %s to work around it.",
+    "value":"Jordan Sissel hates %s so much that he created a new opensource project called %s to work around it.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -1193,8 +1164,8 @@
     "type": "Question",
     "value":"For the next project we are going to use %s to solve %s .",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -1239,26 +1210,26 @@
   },
   {
     "type": "Question",
-    "value":"It has been __ days since the last %s",
+    "value":"It has been %s days since the last %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"I've %s things you people wouldn't %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"The %s on the server were deleted because %s .",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -1281,8 +1252,8 @@
     "type": "Question",
     "value":"I need you to do a %s with %s before %s .",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 2,
+    "pick": 3,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -1305,24 +1276,24 @@
     "type": "Question",
     "value":"This users wants %s because %s .",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"%s should be deprecated in favour of %s .",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"%s mismatch between %s and %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 2,
+    "pick": 3,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -1383,7 +1354,7 @@
   },
   {
     "type": "Question",
-    "value":"My next Velocity talk is called \"%sops\"",
+    "value":"My next Velocity talk is called \"%s ops\"",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1393,8 +1364,8 @@
     "type": "Question",
     "value":"The RFO for the global outage was %s compunded by %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -1417,8 +1388,8 @@
     "type": "Question",
     "value":"I know we use %s, but I wrote this critical program in %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -1432,14 +1403,6 @@
   {
     "type": "Question",
     "value":"I'm writing my next IRC bot with %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"SIG____",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1463,7 +1426,7 @@
   },
   {
     "type": "Question",
-    "value":"%s%s.io",
+    "value":"%s.io",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1479,7 +1442,7 @@
   },
   {
     "type": "Question",
-    "value":"Why is %s_ better than Hadoop?",
+    "value":"Why is %s better than Hadoop?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1497,8 +1460,8 @@
     "type": "Question",
     "value":"Oh, the %s is just a hack to get the %s to run.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -1569,21 +1532,21 @@
     "type": "Question",
     "value":"Puppet is better than Chef because %s and %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"How is %s better than %s ?",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
-    "value":"Learn ____ the hard way",
+    "value":"Learn %s the hard way",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1607,7 +1570,15 @@
   },
   {
     "type": "Question",
-    "value":"You can fix  %s with %s .",
+    "value":"You can fix %s with %s .",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "DevOps Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"We took the plunge and rewrote %s in Go",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1615,7 +1586,7 @@
   },
   {
     "type": "Question",
-    "value":"We took the plunge and rewrote %s__ in Go",
+    "value":"Implementing %s should take only 2 lines of code.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1623,7 +1594,15 @@
   },
   {
     "type": "Question",
-    "value":"Implementing %s%s___ should take only 2 lines of code.",
+    "value":"I accidentally %s the entire %s is this dangerous?",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "DevOps Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Good enough for %s work",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1631,23 +1610,7 @@
   },
   {
     "type": "Question",
-    "value":"I accidentally the entire %s%s_ is this dangerous?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"Good enough for %s___ work",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"Yeah, but can it run %s____?Y",
+    "value":"Yeah, but can it run %s?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1673,8 +1636,8 @@
     "type": "Question",
     "value":"%s isn't cool. You know what's cool? %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -1753,8 +1716,8 @@
     "type": "Question",
     "value":"Real %s don't use %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -1817,16 +1780,16 @@
     "type": "Question",
     "value":"We're demoing %s for %s at SXSW.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"I aliased %s to git %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -1873,8 +1836,8 @@
     "type": "Question",
     "value":"s/%s/%s/g",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -1913,16 +1876,8 @@
     "type": "Question",
     "value":"ln -s %s %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"%s",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -1936,22 +1891,6 @@
   {
     "type": "Question",
     "value":"%s. What the fuck does that mean?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"%s-to-butt plugin",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"Make it %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1977,8 +1916,8 @@
     "type": "Question",
     "value":"grep %s | mail %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -1993,8 +1932,8 @@
     "type": "Question",
     "value":"It's like %s, but with %s and list comprehensions.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -2081,8 +2020,8 @@
     "type": "Question",
     "value":"%s begins with %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -2105,8 +2044,8 @@
     "type": "Question",
     "value":"So I just found %s and %s running in a screen session.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -2121,8 +2060,8 @@
     "type": "Question",
     "value":"Instead of installing %s, what if we just used %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -2183,14 +2122,6 @@
   },
   {
     "type": "Question",
-    "value":"ETOOMUCH%s",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
     "value":"How did %s ever work?",
     "keep": "Yes",
     "draw": 0,
@@ -2201,8 +2132,8 @@
     "type": "Question",
     "value":"Whoops, I thought that method was supposed to %s the %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -2351,14 +2282,6 @@
   },
   {
     "type": "Question",
-    "value":"Larry Wall trained as missionary then %s",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
     "value":"Listening to the fans in the server farm leads to %s",
     "keep": "Yes",
     "draw": 0,
@@ -2369,8 +2292,8 @@
     "type": "Question",
     "value":"%s and %s are rumoured to be working on a python module for a helicam",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -2407,7 +2330,7 @@
   },
   {
     "type": "Question",
-    "value":"Never question the ____",
+    "value":"Never question the %s",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -2433,8 +2356,8 @@
     "type": "Question",
     "value":"%s has just discovered %s.  We're doomed.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -2449,16 +2372,16 @@
     "type": "Question",
     "value":"False alarm, it was just %s running %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"%s running on a rack of %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -2473,8 +2396,8 @@
     "type": "Question",
     "value":"Our new startup is the %s for %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -2513,8 +2436,8 @@
     "type": "Question",
     "value":"The first rule of %s is: You do not talk about %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -2569,8 +2492,8 @@
     "type": "Question",
     "value":"Remember when you told me to tell you when you were acting %s and %s? ---you're doing it now.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -2647,7 +2570,7 @@
   },
   {
     "type": "Question",
-    "value":"%s is a batch command to shut the fuck up",
+    "value":"%s is a bash command to shut the fuck up",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -2689,32 +2612,24 @@
     "type": "Question",
     "value":"Given enough %s, all bugs are %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"%s never use on git",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"The first 90% of development is %s. The second 90% is %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"When you logged in there, did you see a %s that said %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -2777,13 +2692,13 @@
     "type": "Question",
     "value":"Yeah, you need to modprobe %s to get it to recognize the %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
-    "value":"Oh, we're devops! We have %s_ in the office, but only the DBA can touch it.",
+    "value":"Oh, we're devops! We have %s in the office, but only the DBA can touch it.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -2801,8 +2716,8 @@
     "type": "Question",
     "value":"%s found a new OpenSSL vulernability people are calling %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -2815,7 +2730,7 @@
   },
   {
     "type": "Question",
-    "value":"while true; do ____; done",
+    "value":"while true; do %s; done",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -2825,8 +2740,8 @@
     "type": "Question",
     "value":"The consultant we hired is certain that %s will drastically increase the performance of %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -2857,13 +2772,13 @@
     "type": "Question",
     "value":"A soiled napkin with the contents of %s scribbled on it",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
-    "value":"Who thought that %s__ was a good idea?",
+    "value":"Who thought that %s was a good idea?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -2873,8 +2788,8 @@
     "type": "Question",
     "value":"It's not the recommended configuration to use %s with %s but it's in production right now.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -2897,8 +2812,8 @@
     "type": "Question",
     "value":"We rewrote %s in %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -2967,22 +2882,6 @@
   },
   {
     "type": "Question",
-    "value":"%s: ci or not ci?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"I opened the server cabinet and it was full of %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
     "value":"Crossing %s could lead to total protonic reversal.",
     "keep": "Yes",
     "draw": 0,
@@ -3015,7 +2914,7 @@
   },
   {
     "type": "Question",
-    "value":"Nine circles of ___ hell.",
+    "value":"Nine circles of %s hell.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -3033,8 +2932,8 @@
     "type": "Question",
     "value":"I asked the contractor for %s and they delivered %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -3055,7 +2954,7 @@
   },
   {
     "type": "Question",
-    "value":"Post-modern coding is defined by %s____",
+    "value":"Post-modern coding is defined by %s",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -3071,11 +2970,7 @@
   },
   {
     "type": "Question",
-    "value":"ASP has finally developed and replaced %s"
-  },
-
-  {
-    "value":"%s has been put under the WTFPLicense",
+    "value":"ASP has finally developed and replaced %s",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -3093,8 +2988,8 @@
     "type": "Question",
     "value":"I'd like %s, %s, and a Fluttershy.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -3117,8 +3012,8 @@
     "type": "Question",
     "value":"%s is a proof of concept and an actual %s %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 2,
+    "pick": 3,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -3131,7 +3026,7 @@
   },
   {
     "type": "Question",
-    "value":"%s_ is the new Stalinism.",
+    "value":"%s is the new Stalinism.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -3147,10 +3042,18 @@
   },
   {
     "type": "Question",
+    "value":"%s is the new %s",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "DevOps Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
     "value":"Don't read the %s or the %s pages",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -3173,16 +3076,16 @@
     "type": "Question",
     "value":"A manager told me I couldn't remove our dependency on %s, but I got around it with %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"%s implements every single standard for %s.  Poorly.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -3243,7 +3146,7 @@
   },
   {
     "type": "Question",
-    "value":"A firewall rule for ____.",
+    "value":"A firewall rule for %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -3277,8 +3180,8 @@
     "type": "Question",
     "value":"It's like %s on %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -3308,22 +3211,6 @@
   {
     "type": "Question",
     "value":"Fascists cannot stand %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"0.%s%s%s",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"RTFM so you can %s%s_.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -3379,10 +3266,10 @@
   },
   {
     "type": "Question",
-    "value":"%s is more reliable than %s_",
+    "value":"%s is more reliable than %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -3403,39 +3290,15 @@
   },
   {
     "type": "Question",
-    "value":"I'd trust all my stuff to %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"%s ass-as-sin-vice.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
     "value":"My %s for a %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"Nice %s I'll take it.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"@horse%s",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -3451,7 +3314,7 @@
   },
   {
     "type": "Question",
-    "value":"That's funny, did ____ used to be here?",
+    "value":"That's funny, did %s used to be here?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -3459,31 +3322,23 @@
   },
   {
     "type": "Question",
-    "value":"I can't believe you improved %s_ by deleting %s%s",
+    "value":"I can't believe you improved %s by deleting %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"The only thing more dangerous than %s is a programmer with %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
-    "value":"1.  %s___ 2. %s____  3. Profit.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"\"Monads are easy! Just think of them as %s____\"",
+    "value":"\"Monads are easy! Just think of them as %s\"",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -3523,7 +3378,7 @@
   },
   {
     "type": "Question",
-    "value":"My shared socket connects to ____'s backend",
+    "value":"My shared socket connects to %s's backend",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -3531,7 +3386,7 @@
   },
   {
     "type": "Question",
-    "value":"Multiple backend penetration  is achieved with %s",
+    "value":"Multiple backend penetration is achieved with %s",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -3563,7 +3418,7 @@
   },
   {
     "type": "Question",
-    "value":"Verify your %s_ when you wipe your childrens sockets",
+    "value":"Verify your %s when you wipe your childrens sockets",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -3613,8 +3468,8 @@
     "type": "Question",
     "value":"As a %s, I want %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -3637,8 +3492,8 @@
     "type": "Question",
     "value":"%s is my favourite thing about %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -3661,8 +3516,8 @@
     "type": "Question",
     "value":"To understand %s you must first understand %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -3691,10 +3546,10 @@
   },
   {
     "type": "Question",
-    "value":"We accidently the whole %s.",
+    "value":"We accidently %s the whole %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -3723,22 +3578,6 @@
   },
   {
     "type": "Question",
-    "value":"____ the XML in that JSON file",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"pacman -Syu accidentally %s everything",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
     "value":"I saw a High Scalability blog post about %s",
     "keep": "Yes",
     "draw": 0,
@@ -3748,14 +3587,6 @@
   {
     "type": "Question",
     "value":"\"We didn't think anyone was using %s!\"",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"Do you wanna build a %s?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -3773,8 +3604,8 @@
     "type": "Question",
     "value":"The Agile Manifesto taught me to pick %s over %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -3925,8 +3756,8 @@
     "type": "Question",
     "value":"%s because %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -3979,10 +3810,6 @@
   },
   {
     "type": "Question",
-    "value":"How does it look in Opera?"
-  },
-
-  {
     "value":"The %s shell",
     "keep": "Yes",
     "draw": 0,
@@ -3991,10 +3818,14 @@
   },
   {
     "type": "Question",
-    "value":"%s in haskell"
+    "value":"%s in haskell",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "DevOps Against Humanity Expansion"
   },
-
   {
+    "type": "Question",
     "value":"Say %s one more time; I dare you!",
     "keep": "Yes",
     "draw": 0,
@@ -4005,8 +3836,8 @@
     "type": "Question",
     "value":"The cloud runs on %s, with a bit of %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -4021,16 +3852,16 @@
     "type": "Question",
     "value":"This problem can be completely solved with %s implemented in %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"%s vs %s... fight!",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -4043,10 +3874,10 @@
   },
   {
     "type": "Question",
-    "value":"All alerts go to ____, which is handled by %s.",
+    "value":"All alerts go to %s, which is handled by %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -4060,14 +3891,6 @@
   {
     "type": "Question",
     "value":"I've got 99 problems but %s ain't one.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"140 characters is just enough to explain %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -4091,14 +3914,6 @@
   },
   {
     "type": "Question",
-    "value":"ITIL best practices suggest %s is the next step",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "DevOps Against Humanity Expansion"
-  },
-  {
-    "type": "Question",
     "value":"We would have gotten the funding, if only our slide deck included %s",
     "keep": "Yes",
     "draw": 0,
@@ -4109,8 +3924,8 @@
     "type": "Question",
     "value":"Have you tried %s and %s ?",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -4149,16 +3964,16 @@
     "type": "Question",
     "value":"Cookbooks containing %s have been known to cause %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
     "value":"Once we added %s to the firewall rules, %s worked perfectly",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -4189,13 +4004,13 @@
     "type": "Question",
     "value":"The Product Team handed me a spec, they want %s in the next release of %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
     "type": "Question",
-    "value":"The malware came from an infected ad on %s .com",
+    "value":"The malware came from an infected ad on %s.com",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -4213,8 +4028,8 @@
     "type": "Question",
     "value":"That regular expression is designed to match %s but not %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -4285,8 +4100,8 @@
     "type": "Question",
     "value":"Our code was efficient, except for the module containing %s, which was slower than %s",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "DevOps Against Humanity Expansion"
   },
   {
@@ -4339,7 +4154,7 @@
   },
   {
     "type": "Question",
-    "value":"%s is the quickest way to identify what is burning in the server room.\n",
+    "value":"%s is the quickest way to identify what is burning in the server room.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -4403,7 +4218,7 @@
   },
   {
     "type": "Question",
-    "value":"%s became self aware and kidnapped the sysadmins.\n",
+    "value":"%s became self aware and kidnapped the sysadmins.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -4440,5 +4255,221 @@
     "draw": 0,
     "pick": 1,
     "source": "DevOps Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value": "%s - the idiot's guide to %s and %s.",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value": "140 characters is just enough to explain %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"%s or it didn't happen.",
+    "keep":"Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"%s, is that even HA?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"All that we had to do to halve our response times was implement %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Hi, I'm Troy McClure. You may remember me from such commit messages as %s and %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"I came up with an awesome regex that converts %s to %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"I don't own any jeans skinny enough to wear to a %s meetup.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"I find Java to be way too much like %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"I think maybe I'll leave %s off my resum̩.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"If you're %s, you're gonna have a bad time.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"It's dangerous to go alone; take %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Last week, I created a Chef recipe for %s; this week, it's an entire cookbook for %s. Automation FTW!",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"No route to host: %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Pour one out for %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"RIAA is suing me for downloading %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Root cause of the outage? %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"The hardest problems in computer science are naming things, cache invalidation, and %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"The Internet is for cat memes and %s,",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"The status console is green, but I can't access %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"There was no good solution for %s, so we built our own.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"This account has exceeded the maximum number of %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Time to schedule the postmortem for %s .",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"To secure our next round of funding, Management says we need %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"We replaced our %s with %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"We run production %s and %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "Dev Against Humanity Expansion"
+  },
+  {
+    "type": "Question",
+    "value":"Wrap it with the %s duct tape.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Dev Against Humanity Expansion"
   }
 ]

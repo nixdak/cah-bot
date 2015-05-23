@@ -199,10 +199,10 @@ var cardFiles = {
     RoosterTeethExpansionQuestions: __dirname + '/../config/cards/RoosterTeethExpansion_questions.json',
     RoosterTeethExpansionAnswers: __dirname + '/../config/cards/RoosterTeethExpansion_answers.json',
 
-    //Dev Against Humanity Expansion
-    DevAgainstHumanityExpansionQuestions: __dirname + '/../config/cards/DevAgainstHumanityExpansion_questions.json',
-    DevAgainstHumanityExpansionAnswers: __dirname + '/../config/cards/DevAgainstHumanityExpansion_answers.json',
-
+    //DevOps Against Humanity Expansion
+    DevOpsAgainstHumanityExpansionQuestions: __dirname + '/../config/cards/DevOpsAgainstHumanityExpansion_questions.json',
+    DevOpsAgainstHumanityExpansionAnswers: __dirname + '/../config/cards/DevOpsAgainstHumanityExpansion_answers.json',
+    
     //Mr. Man Collection
     MrManCollectionQuestions: __dirname + '/../config/cards/MrManCollection_questions.json',
     MrManCollectionAnswers: __dirname + '/../config/cards/MrManCollection_answers.json',
