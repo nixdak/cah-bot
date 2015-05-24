@@ -129,14 +129,6 @@
   },
   {
     "type": "Question",
-    "value":"Why was Michael screaming at Gavin?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "Rooster Teeth Expansion"
-  },
-  {
-    "type": "Question",
     "value":"Would you guys still like me if my name was %s?",
     "keep": "Yes",
     "draw": 0,
@@ -185,23 +177,7 @@
   },
   {
     "type": "Question",
-    "value":"What's in Gavin's desk?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "Rooster Teeth Expansion"
-  },
-  {
-    "type": "Question",
     "value":"What would be your chosen catchphrase?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "Rooster Teeth Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"Where does Ray belong?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -225,31 +201,7 @@
   },
   {
     "type": "Question",
-    "value":"What mysteries lie beyond Jack's beard?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "Rooster Teeth Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"What makes Michael the angriest?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "Rooster Teeth Expansion"
-  },
-  {
-    "type": "Question",
     "value":"What is your biggest feature?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "Rooster Teeth Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"%s is the worst on the Podcast",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -266,14 +218,6 @@
   {
     "type": "Question",
     "value":"After getting wasted at PAX, Burnie announced that 'I am %s!'",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "Rooster Teeth Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"Barbara sucks %s",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -313,38 +257,6 @@
   },
   {
     "type": "Question",
-    "value":"This week on AHWU, %s",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "Rooster Teeth Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"This week on Immersion, we are going to test %s",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "Rooster Teeth Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"The next RvB cameo will be voiced by %s",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "Rooster Teeth Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"They questioned Ryan's sanity after finding %s in his house",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "Rooster Teeth Expansion"
-  },
-  {
-    "type": "Question",
     "value":"What is Game Night?",
     "keep": "Yes",
     "draw": 0,
@@ -361,14 +273,6 @@
   },
   {
     "type": "Question",
-    "value":"What does Ryan's kid listen to?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "Rooster Teeth Expansion"
-  },
-  {
-    "type": "Question",
     "value":"People like %s",
     "keep": "Yes",
     "draw": 0,
@@ -377,23 +281,7 @@
   },
   {
     "type": "Question",
-    "value":"RT Recap, featuring %s!",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "Rooster Teeth Expansion"
-  },
-  {
-    "type": "Question",
     "value":"My %s is trying to die",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "Rooster Teeth Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"On tonight's Let's Play, the AH crew plays %s",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -489,14 +377,6 @@
   },
   {
     "type": "Question",
-    "value":"Joel plays %s",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "Rooster Teeth Expansion"
-  },
-  {
-    "type": "Question",
     "value":"Fight, fight, fight, %s?",
     "keep": "Yes",
     "draw": 0,
@@ -522,14 +402,6 @@
   {
     "type": "Question",
     "value":"Detective %s is down!",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "Rooster Teeth Expansion"
-  },
-  {
-    "type": "Question",
-    "value":"If Jack was frog and you kissed him, what would he turn into?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,

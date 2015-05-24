@@ -433,6 +433,7 @@ var Game = function Game(channel, client, config, cmdArgs, dbModels) {
             player.isCzar = false;
             // check if idled and remove
             if (player.inactiveRounds >= 1) {
+                player.inactiveRounds=0;
                 self.removePlayer(player, {silent: true});
                 removedNicks.push(player.nick);
             }
