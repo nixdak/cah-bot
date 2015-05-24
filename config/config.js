@@ -172,7 +172,7 @@ var cardFiles = {
     DoctorWhoExpansionAnswers: __dirname + '/../config/cards/DoctorWhoExpansion_answers.json',
 
     // Redbrick set
-    RedbrickQuestions: __dirname + '/../config/cards/Redbrick_questions.json'
+    RedbrickQuestions: __dirname + '/../config/cards/Redbrick_questions.json',
     RedbrickAnswers: __dirname + '/../config/cards/Redbrick_answers.json',
 
     // Antisocial Injustice Expansion
