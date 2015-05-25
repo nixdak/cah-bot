@@ -1,7 +1,8 @@
 {
     "botOptions": {
-        "server":        "openirc.snt.utwente.nl",
-        "nick":          "cah"
+        "server":        "irc.redbrick.dcu.ie",
+        "nick":          "CAH",
+        "database": true
     },
 
     "gameOptions": {
@@ -32,7 +33,7 @@
 
     "clientOptions": {
         "userName":             "cah",
-        "channels":             ["#cah"],
+        "channels":             ["#CardsAgainstHumanity"],
         "floodProtection":      true,
         "floodProtectionDelay": 1000
     }
