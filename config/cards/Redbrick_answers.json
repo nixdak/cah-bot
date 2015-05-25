@@ -110,5 +110,13 @@
     "draw": 0,
     "pick": 1,
     "source": "Redbrick cards"
+  },
+  {
+    "type": "Answer",
+    "value": "Boojum",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Redbrick cards"
   }
 ]
