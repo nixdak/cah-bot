@@ -118,5 +118,21 @@
     "draw": 0,
     "pick": 1,
     "source": "Redbrick cards"
+  },
+  {
+    "type": "Answer",
+    "value": "QwErTy",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Redbrick cards"
+  },
+  {
+    "type": "Answer",
+    "value": "qWeRtY",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "Redbrick cards"
   }
 ]
