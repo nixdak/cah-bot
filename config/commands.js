@@ -22,7 +22,8 @@ module.exports = function(app) {
     app.cmd('pick', '', games.pick);
     app.cmd('p', '', games.pick);
     app.cmd('discard', '', games.discard);
-
+    app.cmd('q', '', games.quit);
+    
     // Private commands
     app.msg('play', '', games.play);
     app.msg('pick', '', games.pick);
