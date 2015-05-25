@@ -16,6 +16,10 @@ var answer_fixes = [
   {
     wrong_text: 'A Pi̱ata full of error messages',
     correct_text: 'A Piñata full of error messages'
+  },
+  {
+    wrong_text: 'Windering if you made the right decision',
+    correct_text: 'Wondering if you made the right decision'
   }
 ];
 

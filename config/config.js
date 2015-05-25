@@ -172,7 +172,7 @@ var cardFiles = {
     DoctorWhoExpansionAnswers: __dirname + '/../config/cards/DoctorWhoExpansion_answers.json',
 
     // Redbrick set
-    // RedbrickQuestions: __dirname + '/../config/cards/Redbrick'
+    RedbrickQuestions: __dirname + '/../config/cards/Redbrick_questions.json',
     RedbrickAnswers: __dirname + '/../config/cards/Redbrick_answers.json',
 
     // Antisocial Injustice Expansion
@@ -202,7 +202,7 @@ var cardFiles = {
     //DevOps Against Humanity Expansion
     DevOpsAgainstHumanityExpansionQuestions: __dirname + '/../config/cards/DevOpsAgainstHumanityExpansion_questions.json',
     DevOpsAgainstHumanityExpansionAnswers: __dirname + '/../config/cards/DevOpsAgainstHumanityExpansion_answers.json',
-    
+
     //Mr. Man Collection
     MrManCollectionQuestions: __dirname + '/../config/cards/MrManCollection_questions.json',
     MrManCollectionAnswers: __dirname + '/../config/cards/MrManCollection_answers.json',
