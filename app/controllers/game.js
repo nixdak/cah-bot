@@ -948,8 +948,7 @@ var Game = function Game(channel, client, config, cmdArgs, dbModels) {
         var  // amount of player needed to start the game
             timeLeft = config.gameOptions.secondsBeforeStart - Math.round((new Date().getTime() - self.startTime.getTime()) / 1000),
             activePlayers = _.filter(self.players, function (player) {
-                // only players with cards in hand are active
-                return player.cards.numCards() > 0;
+                return player.isActive;
             }),
             playersNeeded = Math.max(0, 3 - activePlayers.length),
             played = _.where(activePlayers, {isCzar: false, hasPlayed: true, isActive: true}), // players who have already played
