@@ -1,9 +1,9 @@
 #Cards Against Humanity IRC bot
 
-IRC bot that let's you play [Cards Against Humanity](http://www.cardsagainsthumanity.com/) in IRC. The game is running in IRCnet on #cah, but you can just as easily run your own instance on your own channel for more private games.
+IRC bot that let's you play [Cards Against Humanity](http://www.cardsagainsthumanity.com/) in IRC. The game is running on irc.redbrick.dcu.ie on #cardsagainsthumanity, but you can just as easily run your own instance on your own channel for more private games.
 
 ##Commands
-* **!start #** - Start a new game. Optional parameter can by used to set a point limit for the game (e.g. `!start 10` to play until one player has 10 points.)
+* **!start #** - Start a new game. Optional parameter can be used to set a point limit for the game (e.g. `!start 10` to play until one player has 10 points.)
 * **!stop** - Stop the currently running game.
 * **!pause** - Pause the currently running game.
 * **!resume** - Resume a paused game.
